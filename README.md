@@ -3,4 +3,5 @@
 - Pixel perfect
 - Галерея - Swiper.js
 
-[Посетить проект](https://andrew-web.ru/cld)
+
+
